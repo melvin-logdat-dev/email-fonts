@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Mier B Book';
+    src: url('MierB-Book.eot');
+    src: url('MierB-Book.eot?#iefix') format('embedded-opentype'),
+        url('MierB-Book.woff2') format('woff2'),
+        url('MierB-Book.woff') format('woff'),
+        url('MierB-Book.ttf') format('truetype'),
+        url('MierB-Book.svg#MierB-Book') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mier B';
+    src: url('MierB-Light.eot');
+    src: url('MierB-Light.eot?#iefix') format('embedded-opentype'),
+        url('MierB-Light.woff2') format('woff2'),
+        url('MierB-Light.woff') format('woff'),
+        url('MierB-Light.ttf') format('truetype'),
+        url('MierB-Light.svg#MierB-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mier B';
+    src: url('MierB-DemiBold.eot');
+    src: url('MierB-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('MierB-DemiBold.woff2') format('woff2'),
+        url('MierB-DemiBold.woff') format('woff'),
+        url('MierB-DemiBold.ttf') format('truetype'),
+        url('MierB-DemiBold.svg#MierB-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mier B';
+    src: url('MierB-Bold.eot');
+    src: url('MierB-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MierB-Bold.woff2') format('woff2'),
+        url('MierB-Bold.woff') format('woff'),
+        url('MierB-Bold.ttf') format('truetype'),
+        url('MierB-Bold.svg#MierB-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mier B';
+    src: url('MierB-Regular.eot');
+    src: url('MierB-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MierB-Regular.woff2') format('woff2'),
+        url('MierB-Regular.woff') format('woff'),
+        url('MierB-Regular.ttf') format('truetype'),
+        url('MierB-Regular.svg#MierB-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
