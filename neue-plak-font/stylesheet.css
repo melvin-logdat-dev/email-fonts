@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-SemiBold.eot');
+    src: url('NeuePlakText-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-SemiBold.woff2') format('woff2'),
+        url('NeuePlakText-SemiBold.woff') format('woff'),
+        url('NeuePlakText-SemiBold.ttf') format('truetype'),
+        url('NeuePlakText-SemiBold.svg#NeuePlakText-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-Light.eot');
+    src: url('NeuePlakText-Light.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-Light.woff2') format('woff2'),
+        url('NeuePlakText-Light.woff') format('woff'),
+        url('NeuePlakText-Light.ttf') format('truetype'),
+        url('NeuePlakText-Light.svg#NeuePlakText-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-Thin.eot');
+    src: url('NeuePlakText-Thin.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-Thin.woff2') format('woff2'),
+        url('NeuePlakText-Thin.woff') format('woff'),
+        url('NeuePlakText-Thin.ttf') format('truetype'),
+        url('NeuePlakText-Thin.svg#NeuePlakText-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-Bold.eot');
+    src: url('NeuePlakText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-Bold.woff2') format('woff2'),
+        url('NeuePlakText-Bold.woff') format('woff'),
+        url('NeuePlakText-Bold.ttf') format('truetype'),
+        url('NeuePlakText-Bold.svg#NeuePlakText-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak Text';
+    src: url('NeuePlakText-Black.eot');
+    src: url('NeuePlakText-Black.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlakText-Black.woff2') format('woff2'),
+        url('NeuePlakText-Black.woff') format('woff'),
+        url('NeuePlakText-Black.ttf') format('truetype'),
+        url('NeuePlakText-Black.svg#NeuePlakText-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Plak';
+    src: url('NeuePlak-Regular.eot');
+    src: url('NeuePlak-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NeuePlak-Regular.woff2') format('woff2'),
+        url('NeuePlak-Regular.woff') format('woff'),
+        url('NeuePlak-Regular.ttf') format('truetype'),
+        url('NeuePlak-Regular.svg#NeuePlak-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
