@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Shne Buch';
+    src: url('Sohne-Buch.eot');
+    src: url('Sohne-Buch.eot?#iefix') format('embedded-opentype'),
+        url('Sohne-Buch.woff2') format('woff2'),
+        url('Sohne-Buch.woff') format('woff'),
+        url('Sohne-Buch.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('TiemposHeadline-Medium.eot');
+    src: url('TiemposHeadline-Medium.eot?#iefix') format('embedded-opentype'),
+        url('TiemposHeadline-Medium.woff2') format('woff2'),
+        url('TiemposHeadline-Medium.woff') format('woff'),
+        url('TiemposHeadline-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shne Halbfett';
+    src: url('Sohne-Halbfett.eot');
+    src: url('Sohne-Halbfett.eot?#iefix') format('embedded-opentype'),
+        url('Sohne-Halbfett.woff2') format('woff2'),
+        url('Sohne-Halbfett.woff') format('woff'),
+        url('Sohne-Halbfett.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
