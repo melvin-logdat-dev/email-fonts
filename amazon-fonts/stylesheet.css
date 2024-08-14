@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Amazon Ember Display';
+    src: url('AmazonEmberDisplay-Bold.eot');
+    src: url('AmazonEmberDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AmazonEmberDisplay-Bold.woff2') format('woff2'),
+        url('AmazonEmberDisplay-Bold.woff') format('woff'),
+        url('AmazonEmberDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amazon Ember Display';
+    src: url('AmazonEmberDisplay-Regular.eot');
+    src: url('AmazonEmberDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AmazonEmberDisplay-Regular.woff2') format('woff2'),
+        url('AmazonEmberDisplay-Regular.woff') format('woff'),
+        url('AmazonEmberDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amazon Ember Display';
+    src: url('AmazonEmberDisplay-Light.eot');
+    src: url('AmazonEmberDisplay-Light.eot?#iefix') format('embedded-opentype'),
+        url('AmazonEmberDisplay-Light.woff2') format('woff2'),
+        url('AmazonEmberDisplay-Light.woff') format('woff'),
+        url('AmazonEmberDisplay-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amazon Ember';
+    src: url('AmazonEmber-Bold.eot');
+    src: url('AmazonEmber-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AmazonEmber-Bold.woff2') format('woff2'),
+        url('AmazonEmber-Bold.woff') format('woff'),
+        url('AmazonEmber-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amazon Ember Display';
+    src: url('AmazonEmberDisplay-Medium.eot');
+    src: url('AmazonEmberDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('AmazonEmberDisplay-Medium.woff2') format('woff2'),
+        url('AmazonEmberDisplay-Medium.woff') format('woff'),
+        url('AmazonEmberDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
