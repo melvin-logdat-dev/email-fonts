@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Amazon Ember Cd RC';
+    src: url('AmazonEmberCdRC-Bold.woff2') format('woff2'),
+        url('AmazonEmberCdRC-Bold.woff') format('woff'),
+        url('AmazonEmberCdRC-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
